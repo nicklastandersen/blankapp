@@ -32,6 +32,7 @@ namespace Sandbox
             Console.WriteLine("The value of e is : {0}", e);
 
             double f = 24%6;
+            double c = 24 = 6;
 
 
 
