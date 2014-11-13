@@ -13,3 +13,5 @@ C:\Users\Nicklas\Downloads\Sandbox\Sandbox\Sandbox\obj\x86\Debug\Sandbox.pdb
 C:\Users\Nicklas\Downloads\Sandbox\Sandbox\Sandbox\bin\Debug\Sandbox.exe
 C:\Users\Nicklas\Downloads\Sandbox\Sandbox\Sandbox\bin\Debug\Sandbox.pdb
 C:\Users\Nicklas\Downloads\Sandbox\Sandbox\Sandbox\obj\x86\Debug\Sandbox.csprojResolveAssemblyReference.cache
+C:\Users\Nicklas\Desktop\blankapp\Sandbox\obj\x86\Debug\Sandbox.exe
+C:\Users\Nicklas\Desktop\blankapp\Sandbox\obj\x86\Debug\Sandbox.pdb

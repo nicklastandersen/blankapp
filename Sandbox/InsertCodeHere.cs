@@ -8,7 +8,7 @@ namespace Sandbox
         {
             // The FIRST line of code should be BELOW this line
 
-            int a = 5*7;
+            int a = 5*2
 
             Console.WriteLine("The value of a is : {0}", a);
 
