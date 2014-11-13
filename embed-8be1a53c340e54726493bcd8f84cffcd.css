@@ -1,0 +1,144 @@
+/* line 1, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-widget-container, .Firmafon-external-css-opening-hours-container {
+  font-family: "proxima-nova", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+/* line 3, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-widget-container h1, .Firmafon-external-css-widget-container h2, .Firmafon-external-css-widget-container h3, .Firmafon-external-css-widget-container h4, .Firmafon-external-css-widget-container h5, .Firmafon-external-css-widget-container h6, .Firmafon-external-css-widget-container tr, .Firmafon-external-css-widget-container td, .Firmafon-external-css-widget-container th, .Firmafon-external-css-widget-container p, .Firmafon-external-css-widget-container ul, .Firmafon-external-css-widget-container ol, .Firmafon-external-css-widget-container li, .Firmafon-external-css-widget-container blockquote, .Firmafon-external-css-widget-container form, .Firmafon-external-css-widget-container div, .Firmafon-external-css-widget-container body, .Firmafon-external-css-widget-container a, .Firmafon-external-css-opening-hours-container h1, .Firmafon-external-css-opening-hours-container h2, .Firmafon-external-css-opening-hours-container h3, .Firmafon-external-css-opening-hours-container h4, .Firmafon-external-css-opening-hours-container h5, .Firmafon-external-css-opening-hours-container h6, .Firmafon-external-css-opening-hours-container tr, .Firmafon-external-css-opening-hours-container td, .Firmafon-external-css-opening-hours-container th, .Firmafon-external-css-opening-hours-container p, .Firmafon-external-css-opening-hours-container ul, .Firmafon-external-css-opening-hours-container ol, .Firmafon-external-css-opening-hours-container li, .Firmafon-external-css-opening-hours-container blockquote, .Firmafon-external-css-opening-hours-container form, .Firmafon-external-css-opening-hours-container div, .Firmafon-external-css-opening-hours-container body, .Firmafon-external-css-opening-hours-container a {
+  margin: 0;
+  padding: 0;
+  color: #5b5b5b;
+}
+/* line 8, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-widget-container h2, .Firmafon-external-css-opening-hours-container h2 {
+  font-size: 20px;
+}
+
+/* line 14, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-widget-container {
+  font-size: 14px;
+  margin: 0 auto;
+  padding: 0;
+  width: 265px;
+  border: 1px solid #dadada;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+  padding: 15px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+/* line 29, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-widget-container p {
+  margin-top: 5px;
+}
+/* line 33, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-widget-container a {
+  color: #4cb36c;
+}
+/* line 37, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-widget-container .Firmafon-external-css-widget-phone-number {
+  font-size: 30px;
+}
+/* line 39, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-widget-container .Firmafon-external-css-widget-phone-number a {
+  color: #323141;
+  text-decoration: none !important;
+}
+
+/* line 46, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-opening-hours-container {
+  font-size: 16px;
+  z-index: 10001;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 264px;
+  margin-top: -213.33333px;
+  margin-left: -162px;
+  padding: 30px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+  background-color: white;
+  -webkit-box-shadow: 0px 0px 25px #000;
+  -moz-box-shadow: 0px 0px 25px #000;
+  box-shadow: 0px 0px 25px #000;
+}
+/* line 69, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-opening-hours-container .Firmafon-external-css-close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 7.5px 15px;
+  cursor: pointer;
+}
+/* line 77, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-opening-hours-container table {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+/* line 81, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-opening-hours-container table ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+/* line 86, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-opening-hours-container table td {
+  vertical-align: top;
+  padding-bottom: 6px;
+}
+/* line 91, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-opening-hours-container table .Firmafon-external-css-day-names {
+  padding-right: 10px;
+  width: 63px;
+}
+/* line 95, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-opening-hours-container table .Firmafon-external-css-dates {
+  width: 83px;
+}
+/* line 98, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-opening-hours-container table .Firmafon-external-css-today {
+  font-weight: bold;
+}
+/* line 100, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-opening-hours-container table .Firmafon-external-css-today.Firmafon-external-css-with-exceptions td {
+  padding-bottom: 21px;
+}
+/* line 105, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-opening-hours-container table .Firmafon-external-css-hours {
+  text-align: right;
+}
+/* line 110, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-opening-hours-container .Firmafon-external-css-logo {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 20px 30px;
+  font-size: 0.8em;
+}
+/* line 118, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-opening-hours-container .Firmafon-external-css-logo a {
+  text-decoration: none;
+}
+/* line 119, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-opening-hours-container .Firmafon-external-css-logo .Firmafon-external-css-name {
+  color: #4cb36c;
+  text-decoration: underline;
+}
+
+/* line 125, ../../app/assets/stylesheets/embed/endpoint.css.scss */
+.Firmafon-external-css-backdrop {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 10000;
+}
